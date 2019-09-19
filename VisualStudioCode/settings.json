@@ -1,0 +1,13 @@
+{
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "[powershell]": {
+        "editor.formatOnSave": true,
+    },
+    "powershell.codeFormatting.newLineAfterCloseBrace": false,
+    "powershell.powerShellExePath": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "editor.minimap.enabled": true,
+    "editor.renderControlCharacters": false,
+    "window.zoomLevel": -1,
+    "extensions.ignoreRecommendations": false
+}
